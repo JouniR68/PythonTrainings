@@ -6,7 +6,8 @@ unit = input("Unit l vai k:")
 
 print(f"Annoit arvot: {paino} {unit} ")
 
-if unit.upper() == "k":
+if unit.upper() == "l":
     print(f"Painosi kiloina = {round(float(paino) * 0.45)}")
 else:
     print(f"Painosi poundeina: {round(float(paino)/0.45)}")
+

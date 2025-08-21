@@ -36,9 +36,9 @@ print(math.log2(20))
 print(math.pow(2, 4))
 print(math.sqrt(25))
 
-#x = input("x: ")
-#y = int(x)+1
-#print(f"x: {x}, y: {y}")
+# x = input("x: ")
+# y = int(x)+1
+# print(f"x: {x}, y: {y}")
 
 # falsy
 # ""
@@ -68,3 +68,21 @@ print("Done")
 age = 12
 message = "Free to drink and have sex" if age >= 22 else "Go home to grow"
 print(message)
+
+price = 100000
+has_good_credit = False
+if has_good_credit:
+    down_payment = 0.1 * price
+else:
+    down_payment = 0.2 * price
+print(f"Down payment: ${down_payment}")
+
+# logical operators
+has_high_income = True
+has_good_credit = True
+has_criminal_record = False
+
+if has_high_income and not has_criminal_record:
+    print("Eligible for loan")
+else:
+    print("Not eligible for loan")

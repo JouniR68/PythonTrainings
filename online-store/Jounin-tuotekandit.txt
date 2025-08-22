@@ -1,0 +1,141 @@
+
+Päivämäärä: 2025-08-22 10:40:56
+Tuote: asdfasdf
+Kilpailijan kauppa: sadfa
+Mainoslinkki: sdafas
+Aliexpress-linkki: asdfasdf
+Arvostelut AliExpress: ?
+Amazon-linkki: sadfasdf
+Arvostelut Amazon: ?
+Ostohinta (€): 29.00
+Myyntihinta (€): 298.00
+Voitto (€): 269.00
+BE ROAS: 1.11
+Analyysi: Voitollista
+FB Ads nykyinen: 0
+FB Ads edellinen: 0
+Trend: Vakaa
+Herättääkö kiinnostusta?: Kyllä
+Ratkaiseeko ongelman?: Kyllä
+Helppo ymmärtää?: Kyllä
+Kiinnostava somessa?: Kyllä
+Useita markkinointikulmia?: Kyllä
+Trendikäs?: Kyllä
+---------------------------------------------------------
+
+Päivämäärä: 2025-08-22 10:41:56
+Tuote: asdfasd
+Kilpailijan kauppa: sdafas
+Mainoslinkki: asdfas
+Aliexpress-linkki: asdfas
+Arvostelut AliExpress: ?
+Amazon-linkki: asdf
+Arvostelut Amazon: ?
+Ostohinta (€): 34.00
+Myyntihinta (€): 333.00
+Voitto (€): 299.00
+BE ROAS: 1.11
+Analyysi: Voitollista
+FB Ads nykyinen: 0
+FB Ads edellinen: 0
+Trend: Vakaa
+Herättääkö kiinnostusta?: Kyllä
+Ratkaiseeko ongelman?: Kyllä
+Helppo ymmärtää?: Kyllä
+Kiinnostava somessa?: Kyllä
+Useita markkinointikulmia?: Kyllä
+Trendikäs?: Kyllä
+---------------------------------------------------------
+
+Päivämäärä: 2025-08-22 10:42:35
+Tuote: asdf
+Kilpailijan kauppa: asdf
+Mainoslinkki: adafs
+Aliexpress-linkki: asdf
+Arvostelut AliExpress: ?
+Amazon-linkki: sadf
+Arvostelut Amazon: ?
+Ostohinta (€): 333.00
+Myyntihinta (€): 33.00
+Voitto (€): -300.00
+BE ROAS: Ei katetta
+Analyysi: Tappiollista
+FB Ads nykyinen: 0
+FB Ads edellinen: 0
+Trend: Vakaa
+Herättääkö kiinnostusta?: Ei
+Ratkaiseeko ongelman?: Ei
+Helppo ymmärtää?: Ei
+Kiinnostava somessa?: Ei
+Useita markkinointikulmia?: Ei
+Trendikäs?: Ei
+---------------------------------------------------------
+
+Päivämäärä: 2025-08-22 10:43:33
+Tuote: sadf
+Kilpailijan kauppa: sadf
+Mainoslinkki: asdfas
+Aliexpress-linkki: sdaf
+Arvostelut AliExpress: ?
+Amazon-linkki: asfd
+Arvostelut Amazon: ?
+Ostohinta (€): 343.00
+Myyntihinta (€): 366.00
+Voitto (€): 23.00
+BE ROAS: 15.91
+Analyysi: Voitollista
+FB Ads nykyinen: 0
+FB Ads edellinen: 0
+Trend: Vakaa
+Herättääkö kiinnostusta?: Ei
+Ratkaiseeko ongelman?: Ei
+Helppo ymmärtää?: Ei
+Kiinnostava somessa?: Ei
+Useita markkinointikulmia?: Ei
+Trendikäs?: Ei
+---------------------------------------------------------
+
+Päivämäärä: 2025-08-22 10:44:34
+Tuote: asdf
+Kilpailijan kauppa: asdf
+Mainoslinkki: sadfa
+Aliexpress-linkki: sdf
+Arvostelut AliExpress: ?
+Amazon-linkki: asdf
+Arvostelut Amazon: ?
+Ostohinta (€): 22.00
+Myyntihinta (€): 27.00
+Voitto (€): 5.00
+BE ROAS: 5.40
+Analyysi: Voitollista
+FB Ads nykyinen: 0
+FB Ads edellinen: 0
+Trend: Vakaa
+Herättääkö kiinnostusta?: Kyllä
+Ratkaiseeko ongelman?: Ei
+Helppo ymmärtää?: Ei
+Kiinnostava somessa?: Ei
+Useita markkinointikulmia?: Ei
+Trendikäs?: Ei
+---------------------------------------------------------
+
+Päivämäärä: 22.08.2025
+Tuote: asdfas
+Kilpailijan kauppa: sadf
+Mainoslinkki: asdfasf
+Aliexpress-linkki: asdf
+Arvostelut Aliexpress: 1200 arvostelua
+Amazon-linkki: asdf
+Arvostelut Amazon: 15777 arvostelua
+Ostohinta (€): 23.00
+Myyntihinta (€): 44.00
+Voitto (€): 21.00
+BE ROAS: 2.10 (Kohtalainen (riippuu markkinasta ja kilpailusta))
+Analyysi: Voitollista
+Herättääkö kiinnostusta?: k
+Ratkaiseeko ongelman?: k
+Helppo ymmärtää?: k
+Kiinnostava somessa?: k
+Useita markkinointikulmia?: k
+Trendikäs (FB Ads): k
+---------------------------------------------------------
